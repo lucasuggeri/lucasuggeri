@@ -1,4 +1,5 @@
-```const whoAmI = {
+```JavaScript
+const whoAmI = {
     name: 'Lucas Uggeri',
     yearsOld: 19,
     localization: 'Estância Velha - RS - Brazil',
