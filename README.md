@@ -19,7 +19,7 @@ const person = {
     }
 }
 
-module.exports = person```
+module.exports = person
 
 
 
