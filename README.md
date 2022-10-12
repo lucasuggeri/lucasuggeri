@@ -9,7 +9,7 @@ const whoAmI = {
 }
 const tools = {
     backEnd: ['NodeJs','Pascal'],
-    database: ['Firebird','SQL Server','PostgreSQL', 'MongoDb'],
+    database: ['Firebird','SMSS','PostgreSQL', 'MongoDb'],
     favoriteStack: ['MicroServices', 'Api'],
 }
 const person = {
