@@ -8,8 +8,9 @@ const whoAmI = {
     hobby: ['Play RPG', 'video games'],
 }
 const tools = {
+    frontEnd: ['HTML, CSS, JavaScript]
     backEnd: ['NodeJs','Pascal'],
-    database: ['Firebird','SMSS','PostgreSQL', 'MongoDb'],
+    database: ['Firebird','SQLServer','PostgreSQL', 'MongoDb'],
     favoriteStack: ['MicroServices', 'Api'],
 }
 const person = {
