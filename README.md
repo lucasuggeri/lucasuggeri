@@ -5,7 +5,7 @@ const whoAmI = {
     localization: 'Estância Velha - RS - Brazil',
     languages: ['pt-BR','en-US'],
     occupation: 'Operador de loja',
-    hobby: ['Play RPG', 'video games'],
+    hobby: ['Play video-games', 'sleep'],
 }
 const tools = {
     frontEnd: ['HTML, CSS, JavaScript]
