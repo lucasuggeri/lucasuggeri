@@ -11,7 +11,7 @@ const tools = {
     frontEnd: ['HTML, CSS, JavaScript]
     backEnd: ['NodeJs','Pascal'],
     database: ['Firebird','SQLServer','PostgreSQL', 'MongoDb'],
-    favoriteStack: ['MicroServices', 'Api'],
+    favoriteStack: ['MicroServices', 'Api', 'Telegram bot'],
 }
 const person = {
     ...whoAmI,
