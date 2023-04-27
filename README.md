@@ -4,7 +4,7 @@ const whoAmI = {
     yearsOld: 19,
     localization: 'Estância Velha - RS - Brazil',
     languages: ['pt-BR','en-US'],
-    occupation: 'Operador de loja',
+    occupation: 'Social media',
     hobby: ['Play video-games', 'sleep'],
 }
 const tools = {
