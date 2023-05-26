@@ -2,7 +2,7 @@
 const whoAmI = {
     name: 'Lucas Uggeri',
     yearsOld: 19,
-    localization: 'Estância Velha - RS - Brazil',
+    localization: 'Morro Reuter - RS - Brazil',
     languages: ['pt-BR','en-US'],
     occupation: 'Social media',
     hobby: ['Play video-games', 'sleep'],
