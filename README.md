@@ -5,7 +5,7 @@ const whoAmI = {
     localization: 'Morro Reuter - RS - Brazil',
     languages: ['pt-BR','en-US'],
     occupation: 'Social media',
-    hobby: ['Play video-games', 'sleep'],
+    hobby: ['Play video-games', 'sleep', 'watch animes'],
 }
 const tools = {
     frontEnd: ['HTML, CSS, JavaScript]
